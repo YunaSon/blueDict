@@ -1,9 +1,54 @@
+## 21.01.02
+
+### obtain
+https://smarthardik10.medium.com/google-code-jam-qualification-2020-nesting-depth-simplified-explanation-62974a5e2aa
+
+v 
+1. get, acquire, sequre
+
+- an opportunity to obtain advanced degree
+
+
+2. be prevalent, customary, establishing
+
+- the price of silver fell to that obtaining elsewhere in the ancient world.
+
+
+
+### ancient
+
+adjective
+1. belonging to the very distant past no longer in existence.
+- the ancient civilizations of the Mediterranean 
+
+2. having been in exsistence for a very long time.
+- ancient forest
+
+3. showing or feeling of signs of age or wear.
+- an ancient pair of jeans 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## 20.12.31
 
 - We'll need your address to send you prizes that you might be eligible for.
+(google coding jam)
 
 ### eligible
 
